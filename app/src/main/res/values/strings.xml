@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Smart Helmet Project</string>
+    <string name="name">Jack</string>
+    <string name="emergency_sms">EMERGENCY SMS</string>
+    <string name="EmergencyName">ชื่อ :</string>
+    <string name="EmergencyTel">เบอร์โทร :</string>
+    <string name="telNumber">0992980430</string>
+    <string name="say_hello">พูด \"สวัสดี\"</string>
+    <string name="voice_command">VOICE COMMAND</string>
+    <string name="battery_notification">BATTERY NOTIFICATION</string>
+    <string name="instruction">INSTRUCTION</string>
+    <string name="about">ABOUT</string>
+    <string name="record_audio_is_required">We will only use the Record Audio Permission in order to use the Speech to Text Feature</string>
+    <string name="destroied">SpeeechRecognizer has been destroyed</string>
+    <string name="you_may_speak">เชิญพูดได้เลยค่ะ</string>
+    <string name="no_results_found">กรุณาพูดอีกครั้งค่ะ?</string>
+    <string name="infomation">คำแนะนำต่าง ๆ ในการใช้คำสั่งเสียงควบคุม</string>
+    <string name="title_activity_tutorial_view">tutorialView</string>
+    <string name="aboutContent">Smart Helmet Application V.0.0.1</string>
+    <string name="aboutMaker">Created By \n นายธีรเดช  ทรัพย์สิน\n นายจิรายุ  ชื่นชม</string>
+    <string name="bluetooth">BLUETOOTH RECEIVER</string>
+
+    <string name="title_activity_device_list">DeviceListActivity</string>
+    <string name="none_paired">no paired</string>
+
+</resources>
